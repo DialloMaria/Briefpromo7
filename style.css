@@ -1,6 +1,6 @@
 .body{
     background-color: red;
-    font-family: 'Courier New', monospace;
+    font-family: 'Courier New' , monospace;
     display: flex;
     font-size: 23px;
 }
